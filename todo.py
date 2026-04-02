@@ -2,7 +2,7 @@ tasks = []
 
 while True:
     print("\n--- TO DO LIST ---")
-    print("1. View Tasks")
+    print("1. Available Tasks")
     print("2. Add Task")
     print("3. Delete Task")
     print("4. Exit")
